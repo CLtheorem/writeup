@@ -1,7 +1,7 @@
-- [端口探测](#----)
-- [Web服务getshell](#web--getshell)
-- [提权至root](#---root)
-- [结语](#--)
+- [端口探测](#端口探测)
+- [Web服务getshell](#web服务getshell)
+- [提权至root](#提权至root)
+- [结语](#结语)
 
 vulnhub 靶机 [billu: b0x](https://www.vulnhub.com/entry/billu-b0x,188/) 的walkthrough。
 
